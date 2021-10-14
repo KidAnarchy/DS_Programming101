@@ -1,5 +1,13 @@
 # DS_Programming101
 
-Hello friend, I just wondering in coding and try to study, hope you understand and advice me.
+This respository is part of Data science programing subject of Master degree.
+100% python programing and mostly work in Jupyter notenook.
 
-Nattawat Mechanic from Thailand.
+Separate file in 3 parts
+1.Quiz
+2.Assignment and Homework
+3.Pactical following PPT lesson plan 
+
+I hope it will be useful to those who are interested in learning and thank Ajarn Pasakorn for providing knowledge.
+
+
